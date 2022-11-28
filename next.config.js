@@ -4,7 +4,6 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  assetPrefix: isProd ? '/hudsonbassocom/' : '',
   images: {
     unoptimized: true,
   },
